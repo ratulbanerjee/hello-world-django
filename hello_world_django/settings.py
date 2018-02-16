@@ -25,7 +25,7 @@ SECRET_KEY = 'gpsx_*$9v2^b@*jjx2#o28+b!h$!#pvckzb%g4#ir5(7h6#_*-'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['*']
 
 
 # Application definition
