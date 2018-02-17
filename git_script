@@ -1,0 +1,6 @@
+#!/bin/bash
+
+git add -A
+git status
+git commit -m "8th commit"
+git push origin master
