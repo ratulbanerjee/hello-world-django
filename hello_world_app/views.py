@@ -1,4 +1,4 @@
 from django.http import HttpResponse
 
 def home(request):
-    return HttpResponse('Hello, ratul banerjee. welcome to bridgelabz!')
+    return HttpResponse('Hello, ratul and vinit. welcome to bridge labz!')
